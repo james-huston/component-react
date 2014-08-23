@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "repo": "james-huston/react",
+  "repo": "james-huston/component-react",
   "description": "A javascript library for building user-interfaces, with addons. http://facebook.github.io/react",
   "version": "0.11.1",
   "keywords": [
